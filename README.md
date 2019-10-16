@@ -1,2 +1,2 @@
 # Beginning
-First Pracitice project on GitHub
+First Practise project on GitHub
